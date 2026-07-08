@@ -1,0 +1,16 @@
+name: odds_analysis
+channels:
+  - defaults
+  - https://repo.anaconda.com/pkgs/main
+  - https://repo.anaconda.com/pkgs/r
+  - https://repo.anaconda.com/pkgs/msys2
+dependencies:
+  - requests
+  - python=3.11
+  - matplotlib
+  - pandas
+  - seaborn
+  - python-dotenv
+  - jupyterlab
+  - scipy
+prefix: C:\Users\semih\anaconda3\envs\odds_analysis
