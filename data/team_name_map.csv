@@ -1,0 +1,32 @@
+league,csv_name,api_short_name
+PL,Brighton,Brighton Hove
+PL,Wolves,Wolverhampton
+PL,Nott'm Forest,Nottingham
+PL,Leicester,Leicester City
+PL,Ipswich,Ipswich Town
+PL,Leeds,Leeds United
+PD,Vallecano,Rayo Vallecano
+PD,Espanol,Espanyol
+PD,Sevilla,Sevilla FC
+PD,Ath Madrid,Atleti
+PD,Sociedad,Real Sociedad
+PD,Betis,Real Betis
+PD,Ath Bilbao,Athletic
+PD,Barcelona,Barça
+PD,Oviedo,Real Oviedo
+BL1,Ein Frankfurt,Frankfurt
+BL1,Bayern Munich,Bayern
+BL1,Werder Bremen,Bremen
+BL1,Hamburg,HSV
+BL1,FC Koln,1. FC Köln
+SA,Venezia,Venezia FC
+SA,Como,Como 1907
+SA,Pisa,AC Pisa
+FL1,St Etienne,Saint-Étienne
+FL1,Lyon,Olympique Lyon
+FL1,Angers,Angers SCO
+FL1,Lens,RC Lens
+FL1,Reims,Stade de Reims
+FL1,Rennes,Stade Rennais
+FL1,Paris SG,PSG
+FL1,Metz,FC Metz
