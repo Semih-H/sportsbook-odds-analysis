@@ -52,7 +52,7 @@ def main() -> None:
                 n_matches = len(data.get("matches", []))
                 filepath = save_raw(data, competition, season)
                 print(f"OK - {n_matches} matches -> {filepath}")
-            except requests.exceptions.HTTPError as e:
+            except requests.exceptions.RequestException as e:
                 print(f"FAILED - {e}")
             time.sleep(SLEEP_SECONDS)
 
