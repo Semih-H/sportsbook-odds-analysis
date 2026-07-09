@@ -5,7 +5,7 @@ Bundesliga, Serie A, Ligue 1, calendar year 2025), built as an
 end-to-end pipeline: two independent data sources, validated join,
 statistical analysis, and an interactive Tableau dashboard.
 
-**Dashboard:** [Tableau Public — Sportsbook Market Analysis 2025](YOUR-URL)
+**Dashboard:** [Tableau Public — Sportsbook Market Analysis 2025](https://public.tableau.com/views/SportsbookMarketAnalysis2025/Dashboard2MarketCalibration?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Key findings
 - **Sharp vs retail margins:** Pinnacle prices a near-constant ~3.0%
